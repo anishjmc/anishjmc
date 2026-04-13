@@ -1,40 +1,67 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Anish</h1>
-<h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Anish Vijayan</h1>
+<h3 align="center">🚀 Tech Leader | Full Stack Architect | AI & SaaS Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=12%2B+Years+in+Web+Technologies;AI+%7C+LLMs+%7C+RAG+Systems;Django+%7C+React+Expert;SaaS+Platform+Builder&center=true&width=550&height=45">
 </p>
 
 ---
 
-## 🌟 About Me
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m learning **Advanced Backend / DevOps**
-- 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **Web Development, APIs, System Design**
-- ⚡ Fun fact: *I turn coffee into code ☕💻*
+## 🧠 About Me
+
+💡 Technology leader with **12+ years of experience** in building scalable web platforms and leading engineering teams.
+
+- 🔭 Currently working as **Operations Manager @ HireFlex Global**
+- 🚀 Built a **full SaaS Digital Marketing Platform from scratch**
+- 🤖 Working with **LLMs (DeepSeek, LLaMA via Ollama)**
+- 🧠 Built **RAG-based AI systems & Chatbots**
+- 🔎 Developed **Elasticsearch Resume Search Engine**
+- 👨‍💻 Leading cross-functional teams & product development
+- 📈 Strong background in **SEO, Analytics & Digital Marketing**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+### 🧠 AI / GenAI
+![RAG](https://img.shields.io/badge/-RAG-black?style=flat-square)
+![LLM](https://img.shields.io/badge/-LLMs-black?style=flat-square)
+![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat-square)
+
+### 💻 Backend
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat-square)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-
-### 🛢️ Database
+### 🛢️ Database & Search
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=elasticsearch)
+
+### ⚙️ Tools & DevOps
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![cPanel](https://img.shields.io/badge/-cPanel-black?style=flat-square)
+
+---
+
+## 🏆 Key Achievements
+
+🚀 Built a **complete SaaS Digital Marketing Platform**
+- Modules: SMS, Email, Web Push, Analytics, A/B Testing, Segmentation
+
+🤖 Developed **AI-powered systems**
+- RAG-based chatbot
+- LLM integrations (DeepSeek, LLaMA)
+
+🔍 Created **Elasticsearch-based Resume Search Engine**
+
+👨‍💻 Led teams and delivered **scalable enterprise solutions**
 
 ---
 
@@ -48,50 +75,46 @@
 
 ---
 
-## 🔥 Top Languages
+## 🔥 Top Skills
+
+- 🧠 AI / GenAI / RAG Systems  
+- ⚙️ Backend Architecture (Django, Laravel)  
+- 🌐 Full Stack Development (React + APIs)  
+- 📊 Digital Marketing Tech & Analytics  
+- 🔍 Elasticsearch & Data Systems  
+- 👨‍💼 Team Leadership & Product Management  
+
+---
+
+## 💼 Experience Snapshot
+
+- 🚀 **Operations Manager** – HireFlex Global *(2023–Present)*
+- 🏢 **DGM** – Caspar Technologies *(2013–2023)*
+- 🎨 **Web Designer / Developer** – SiliCraft Technologies
+- 🖥️ **IT Administrator** – Au Courant Publishers
+- 🌐 **Web Administrator** – Riort Technologies
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <a href="https://www.linkedin.com/in/anishjmc/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:anishjmc08@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail">
+  </a>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🧠 Philosophy
 
-### 🌟 Project 1
-- 🔗 [Live Demo](#)
-- 📂 [Repository](#)
-- 📝 Description: Short description of your project
-
-### 🌟 Project 2
-- 🔗 [Live Demo](#)
-- 📂 [Repository](#)
-- 📝 Description: Short description
-
----
-
-## 🏆 Achievements
-- 🥇 Open Source Contributor
-- 🚀 Built scalable applications
-- 💡 Solved real-world problems
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></a>
-</p>
-
----
-
-## 🧠 Quote I Live By
-> "Code. Learn. Build. Repeat."
+> "Build scalable systems. Solve real problems. Keep evolving."
 
 ---
 
 <p align="center">
-  ⭐️ From <b>Anish</b> with ❤️
+  ⭐️ Built with passion by <b>Anish Vijayan</b>
 </p>
